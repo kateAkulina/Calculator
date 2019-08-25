@@ -1,0 +1,45 @@
+.btn {
+  width: 25%;
+  height: 60px;
+  font-size: 30px;
+  background-color: #cfeb80;
+  border: 1px solid #a4c44d;
+  outline: none;
+}
+
+.btn:hover {
+  background-color:  #a4c44d;
+}
+
+.output {
+  text-align: center;
+  font-size: 30px;
+  height: 60px;
+  background-color: beige;
+  border: 3px solid #4a610a;
+  margin: -2px -2px 0 -2px;
+}
+
+.block {
+  text-align: center;
+  margin: 5% 0 0 0;
+}
+
+.calculator {
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid #a4c44d;
+}
+
+.first_line .btn {
+  width: 50%;
+}
+
+.last_line .btn {
+  width: 12.5%;
+}
+
+#zero {
+  width: 75%;
+}
