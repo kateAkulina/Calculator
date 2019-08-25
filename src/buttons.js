@@ -62,7 +62,6 @@ class Buttons extends Component {
 					res = +v1 % +v2;
 			}
 			this.setState({v1: res, op: '', v2: ''});
-		} else {
 		}
 	}
 
